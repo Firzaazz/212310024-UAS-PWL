@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: #EEEEEE;
+  background: #f4f4ff;
+}
+@media only screen and (max-width: 600px) {
+  /* styling untuk layar kecil */
+}
+
